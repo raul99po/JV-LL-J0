@@ -60,9 +60,6 @@ Busca tu id en "chat":{"id":XXXXXXXX}
 ## 🔐 Seguridad
 No publiques tu BOT_TOKEN ni CHAT_ID en GitHub. Usa variables de entorno o un archivo .env si vas a subirlo públicamente.
 
-## 🧾 Licencia
-MIT.
-
 ## 📬 Prueba manual del script
 Para probarlo sin conectarte por SSH:
 ```bash

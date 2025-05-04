@@ -57,13 +57,14 @@ Luego ve a:
 https://api.telegram.org/bot<BOT_TOKEN>/getUpdates
 Busca tu id en "chat":{"id":XXXXXXXX}
 
-## 📬 Prueba manual del script
-Para probarlo sin conectarte por SSH:
-```bash
-SSH_CONNECTION="192.168.1.100 22 192.168.1.10 22" ./login_alert.sh
-
 ## 🔐 Seguridad
 No publiques tu BOT_TOKEN ni CHAT_ID en GitHub. Usa variables de entorno o un archivo .env si vas a subirlo públicamente.
 
 ## 🧾 Licencia
 MIT.
+
+## 📬 Prueba manual del script
+Para probarlo sin conectarte por SSH:
+```bash
+SSH_CONNECTION="192.168.1.100 22 192.168.1.10 22" ./login_alert.sh
+

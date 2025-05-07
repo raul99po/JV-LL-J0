@@ -12,12 +12,6 @@ Este script envía una alerta a tu cuenta de Telegram cada vez que alguien inici
 - Cuenta de Telegram
 - Bot de Telegram creado con [@BotFather](https://t.me/BotFather)
 
-## 📦 Requisitos
-
-- Servidor Linux con acceso root
-- `curl` instalado
-- Cuenta de Telegram
-- Bot de Telegram creado con [@BotFather](https://t.me/BotFather)
 
 ## 🚀 Instalación
 
